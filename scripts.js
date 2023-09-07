@@ -1,3 +1,4 @@
+// JSON DATA
 const objs = [
   {
     name: "Julio Augusto",
@@ -100,6 +101,7 @@ const objs = [
     languages: ["Português", "Russo", "Inglês", "Frances"],
   },
 ];
+// JSON DATA
 
 // OBJECT CONVERSION TO JSON
 const jsonData = JSON.stringify(objs);
