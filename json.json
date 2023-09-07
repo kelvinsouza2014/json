@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Julio Augusto",
+    "age": 27,
+    "working": true,
+    "workDescription": {
+      "profession": "Analista de Sistemas",
+      "company": "Microsoft"
+    },
+    "languages": ["Português", "Frances", "Inglês", "Alemão"]
+  },
+  {
+    "name": "Amanda Rodrigues",
+    "age": 31,
+    "working": true,
+    "workDescription": {
+      "profession": "UX Designer",
+      "company": "Atlassian"
+    },
+    "languages": ["Português", "Inglês"]
+  },{
+    "name": "Caralina Camargo",
+    "age": 22,
+    "working": true,
+    "workDescription": {
+      "profession": "Tech Recruter",
+      "company": "Caelum"
+    },
+    "languages": ["Português", "Inglês"]
+  },{
+    "name": "Julio Cesar",
+    "age": 31,
+    "working": true,
+    "workDescription": {
+      "profession": "Tech Lead",
+      "company": "Vivo"
+    },
+    "languages": ["Português", "Frances", "Inglês"]
+  },{
+    "name": "Carlos Antônio",
+    "age": 42,
+    "working": true,
+    "workDescription": {
+      "profession": "Project Manager",
+      "company": "Claro"
+    },
+    "languages": ["Português", "Inglês", "Mandarim"]
+  },{
+    "name": "Amanda Nunes",
+    "age": 27,
+    "working": true,
+    "workDescription": {
+      "profession": "Product Owner",
+      "company": "Microsoft"
+    },
+    "languages": ["Português", "Inglês", "Espanhol"]
+  },{
+    "name": "Carlos Augusto",
+    "age": 25,
+    "working": false,
+    "workDescription": {
+      "profession": null,
+      "company": null
+    },
+    "languages": ["Português", "Japonês"]
+  },{
+    "name": "Amanda Camnpos",
+    "age": 28,
+    "working": true,
+    "workDescription": {
+      "profession": "Freelance",
+      "company": null
+    },
+    "languages": ["Português", "Inglês", "Frances"]
+  },{
+    "name": "Gabriel Tavares",
+    "age": 23,
+    "working": true,
+    "workDescription": {
+      "profession": "Atendente de Telemarketing",
+      "company": "Tim"
+    },
+    "languages": ["Português", "Espanhol"]
+  },{
+    "name": "Diego Ramalho",
+    "age": 39,
+    "working": true,
+    "workDescription": {
+      "profession": "Co-fundador",
+      "company": "Alura"
+    },
+    "languages": ["Português", "Russo", "Inglês", "Frances"]
+  }
+]
